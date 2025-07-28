@@ -6,10 +6,10 @@ This repository contains my solutions to coding challenges from [HackerRank](htt
 ## 📚 Topics Covered
 
 - ✅ **Basic SELECT**
-- ✅ **Aggregation**
-- ✅ **JOINs**
-- ✅ **Subqueries**
-- ✅ **Advanced SQL (as I progress)**
+- ✅ **Advanced SELECT**
+- ✅ ****
+- ✅ ****
+- ✅ ****
 
 ---
 
