@@ -7,7 +7,7 @@ This repository contains my solutions to coding challenges from [HackerRank](htt
 
 - ✅ **Basic SELECT**
 - ✅ **Advanced SELECT**
-- ✅ ****
+- ✅ **Aggregation**
 - ✅ ****
 - ✅ ****
 
